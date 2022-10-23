@@ -1,2 +1,4 @@
 const obj = {
+    name:'kk',
+    
 }
